@@ -1,2 +1,1 @@
-# rank is college assistance 
-website
+# rank
